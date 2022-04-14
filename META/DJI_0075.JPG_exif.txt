@@ -1,0 +1,132 @@
+ExifTool Version Number         : 11.88
+File Name                       : DJI_0075.JPG
+Directory                       : ./jpg_set
+File Size                       : 4.6 MB
+File Modification Date/Time     : 2022:04:08 18:37:02+02:00
+File Access Date/Time           : 2022:04:12 19:58:53+02:00
+File Inode Change Date/Time     : 2022:04:12 19:40:34+02:00
+File Permissions                : rwxrwxrwx
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Image Description               : DCIM\100MEDIA\DJI_0075.JPG
+Camera Model Name               : FC330
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : v01.19.5266
+Modify Date                     : 2017:09:23 15:29:35
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/496
+F Number                        : 2.8
+Exposure Program                : Program AE
+ISO                             : 100
+Exif Version                    : 0230
+Date/Time Original              : 2017:09:23 15:29:35
+Create Date                     : 2017:09:23 15:29:35
+Components Configuration        : -, Cr, Cb, Y
+Compressed Bits Per Pixel       : 2.992149333
+Shutter Speed Value             : 1/496
+Aperture Value                  : 2.8
+Exposure Compensation           : 0
+Max Aperture Value              : 2.8
+Subject Distance                : 0 m
+Metering Mode                   : Center-weighted average
+Light Source                    : Unknown
+Flash                           : No flash function
+Focal Length                    : 3.6 mm
+Make                            : DJI
+Speed X                         : -0.10
+Speed Y                         : +0.90
+Speed Z                         : +0.00
+Pitch                           : +2.20
+Yaw                             : +10.50
+Roll                            : +0.00
+Camera Pitch                    : -51.50
+Camera Yaw                      : +12.30
+Camera Roll                     : +0.00
+Flashpix Version                : 0010
+Color Space                     : sRGB
+Exif Image Width                : 4000
+Exif Image Height               : 3000
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Exposure Index                  : undef
+File Source                     : Digital Camera
+Scene Type                      : Unknown (0)
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : undef
+Focal Length In 35mm Format     : 20 mm
+Scene Capture Type              : Standard
+Gain Control                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Device Setting Description      : (Binary data 4 bytes, use -b option to extract)
+Subject Distance Range          : Unknown
+GPS Version ID                  : 0.0.0.0
+GPS Latitude Ref                : North
+GPS Longitude Ref               : East
+GPS Altitude Ref                : Above Sea Level
+XP Comment                      : 0.91.142
+XP Keywords                     : N
+Serial Number                   : ffff5b7fffff1bff74ffff12ff306f24
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 41984
+Thumbnail Length                : 8150
+About                           : DJI Meta Data
+Format                          : image/jpeg
+Absolute Altitude               : +303.89
+Relative Altitude               : +39.70
+Gimbal Roll Degree              : +0.00
+Gimbal Yaw Degree               : +12.30
+Gimbal Pitch Degree             : -51.50
+Flight Roll Degree              : +0.00
+Flight Yaw Degree               : +10.50
+Flight Pitch Degree             : +2.20
+Flight X Speed                  : -0.10
+Flight Y Speed                  : +0.90
+Flight Z Speed                  : +0.00
+Cam Reverse                     : 0
+Gimbal Reverse                  : 0
+Version                         : 7.0
+Has Settings                    : False
+Has Crop                        : False
+Already Applied                 : False
+MPF Version                     : 0010
+Number Of Images                : 2
+MP Image Flags                  : Dependent child image
+MP Image Format                 : JPEG
+MP Image Type                   : Large Thumbnail (VGA equivalent)
+MP Image Length                 : 292829
+MP Image Start                  : 4546694
+Dependent Image 1 Entry Number  : 0
+Dependent Image 2 Entry Number  : 0
+Image UID List                  : (Binary data 66 bytes, use -b option to extract)
+Total Frames                    : 1
+Image Width                     : 4000
+Image Height                    : 3000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Aperture                        : 2.8
+Image Size                      : 4000x3000
+Megapixels                      : 12.0
+Scale Factor To 35 mm Equivalent: 5.5
+Shutter Speed                   : 1/496
+Thumbnail Image                 : (Binary data 8150 bytes, use -b option to extract)
+GPS Altitude                    : 303.8 m Above Sea Level
+GPS Latitude                    : 43 deg 41' 48.52" N
+GPS Longitude                   : 2 deg 13' 24.78" E
+Preview Image                   : (Binary data 292829 bytes, use -b option to extract)
+Circle Of Confusion             : 0.005 mm
+Field Of View                   : 84.0 deg
+Focal Length                    : 3.6 mm (35 mm equivalent: 20.0 mm)
+GPS Position                    : 43 deg 41' 48.52" N, 2 deg 13' 24.78" E
+Hyperfocal Distance             : 0.86 m
+Light Value                     : 11.9
